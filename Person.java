@@ -23,10 +23,11 @@ public class Person
     {
         height = 60;
         width = 30;
-        xPosition = 280;
+        xPosition = 480;
         yPosition = 190;
         color = "black";
-        isVisible = false;
+        isVisible = true;
+        slowMoveHorizontal(-250);
     }
 
     /**
