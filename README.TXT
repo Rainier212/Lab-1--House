@@ -19,3 +19,5 @@ uses the shapes to draw a picture. It can be used to experiment with
 modifying source code.
 
 It uses the different objects to draw them into the Canvas.
+
+I wasn't able to do the challenge exercise in step 19, as I did not understand what to do.
